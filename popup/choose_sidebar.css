@@ -1,0 +1,48 @@
+table {
+  width: 100px;
+}
+
+body {
+	background-color: #FFD700;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  text-align: center;
+}
+
+td, th {
+  border: 1px solid #000000;
+  text-align: center;
+  padding: 8px;
+  font-weight: normal;
+}
+
+tr:nth-child(odd) {
+  background-color: #dddddd;
+}
+
+tr:first-child {
+  background-color: #FF8C00;
+}
+
+.center {
+  margin: 0 auto;
+  padding: 5px;
+}
+
+.block {
+  display: block;
+  width: 100%;
+  border: none;
+  padding: 12px 26px;
+  font-size: 12px;
+  text-align: center;
+  background-color: #FF8C00;
+  font-weight: bold;
+  font-family: arial, sans-serif;
+}
+
+.block:hover { background: #383; }

@@ -1,0 +1,31 @@
+{
+
+  "manifest_version": 2,
+  "name": "Stack Overflow Productivity Return",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_title": "Stack Overflow Productivity Return",
+    "default_popup": "popup/choose_sidebar.html"
+  },
+
+  "permissions": [
+	"storage",
+	"activeTab"
+  ],
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.stackoverflow.com/*"],
+      "js": ["content_scripts/sidebar.js"]
+    }
+  ],
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "addon@example.com",
+	  "strict_min_version": "84.0"
+    }
+  }
+
+}
