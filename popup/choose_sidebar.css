@@ -1,23 +1,19 @@
 table {
-  width: 100px;
+  border-collapse: collapse;
+  font-family: arial, sans-serif;
+  text-align: center;
+  width: 100%;
 }
 
 body {
-	background-color: #FFD700;
-}
-
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-  text-align: center;
+  background-color: #FFD700;
 }
 
 td, th {
   border: 1px solid #000000;
-  text-align: center;
-  padding: 8px;
   font-weight: normal;
+  padding: 8px;
+  text-align: center;
 }
 
 tr:nth-child(odd) {
@@ -34,15 +30,17 @@ tr:first-child {
 }
 
 .block {
-  display: block;
-  width: 100%;
-  border: none;
-  padding: 12px 26px;
-  font-size: 12px;
-  text-align: center;
   background-color: #FF8C00;
-  font-weight: bold;
+  border: none;
+  display: block;
   font-family: arial, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 12px 26px;
+  text-align: center;
+  width: 100%;
 }
 
-.block:hover { background: #383; }
+.block:hover {
+  background: #383;
+}
