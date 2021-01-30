@@ -10,7 +10,7 @@ StackOverflowProductivityReturn is aimed at users who get easily distracted and 
 ## Basic Usage
 <img src="img/Popup.png">\
 
-The image above shows the layout of the StackOverflowProductivityReturn Extension. Select sidebar elements you want to hide on StackOverflow question pages via click on the corresponding checkbox. Subsequently, apply your changes by clicking on `Apply changes`. When clicking on `Apply changes` the current side gets reloaded and the popup gets closed.
+The image above shows the layout of the StackOverflowProductivityReturn Extension. Select sidebar elements you want to hide on StackOverflow question pages via click on the corresponding checkbox. Subsequently, apply your changes by clicking on `Apply changes`. When clicking on `Apply changes` the current site gets reloaded and the popup gets closed.
 
 <img src="img/ElementsShown.png">
 <img src="img/ElementsHidden.png">

@@ -11,7 +11,7 @@
   },
 
   "description": "No more distractions. Increase your productivity by only allowing specific elements on the StackOverflow sidebar. Or show none at all. You choose.",
-  "homepage_url": "https://github.com/MaxGreil",
+  "homepage_url": "https://github.com/MaxGreil/StackOverflowProductivityReturn",
   "icons": {
     "48": "icons/baseline_pan_tool_black_18dp.png"
   },
