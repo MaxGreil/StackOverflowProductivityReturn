@@ -1,14 +1,21 @@
 {
 
   "manifest_version": 2,
-  "name": "Stack Overflow Productivity Return",
+  "name": "StackOverflowProductivityReturn",
   "version": "1.0",
 
   "browser_action": {
+    "default_icon": "icons/baseline_pan_tool_black_18dp.png",
     "default_title": "Stack Overflow Productivity Return",
     "default_popup": "popup/choose_sidebar.html"
   },
 
+  "description": "No more distractions. Increase your productivity by only allowing specific elements on the StackOverflow sidebar. Or show none at all. You choose.",
+  "homepage_url": "https://github.com/MaxGreil",
+  "icons": {
+    "48": "icons/baseline_pan_tool_black_18dp.png"
+  },
+	
   "permissions": [
     "storage",
     "activeTab"

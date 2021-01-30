@@ -3,13 +3,22 @@
 *No more distractions. Increase your productivity by only allowing specific elements on the StackOverflow sidebar. Or show none at all. You choose.*
 
 ## Overview
+StackOverflowProductivityReturn is a Firefox extension that lets you hide a selection of or all sidebar elements on question pages on [Stackoverflow](https://stackoverflow.com/).
+
+StackOverflowProductivityReturn is aimed at users who get easily distracted and want to maintain their productivity when looking up questions on Stackoverflow.
 
 ## Basic Usage
+<img src="img/Popup.png">\
+
+The image above shows the layout of the StackOverflowProductivityReturn Extension. Select sidebar elements you want to hide on StackOverflow question pages via click on the corresponding checkbox. Subsequently, apply your changes by clicking on `Apply changes`. When clicking on `Apply changes` the current side gets reloaded and the popup gets closed.
+
+<img src="img/ElementsShown.png">
+<img src="img/ElementsHidden.png">
 
 ## Installation Instructions
 
 ### Firefox
-You can get the latest version of Read Aloud Extension from the [Mozilla Add-ons website].
+You can get the latest version of StackOverflowProductivityReturn Extension from the [Mozilla Add-ons website].
 
 #### Firefox install from source
 
@@ -21,7 +30,7 @@ You can get the latest version of Read Aloud Extension from the [Mozilla Add-ons
 6. Select the `manifest.json` file produced earlier.
 
 ## Contributing - Pull Requests
-PRs are welcome. 
+PRs are welcome.
 - Star this GitHub repo
 - Post about it on your social media (Twitter / Blogs / Facebook / Instagram etc)
 - Create pull requests, submit bugs, suggest new features or documentation updates
