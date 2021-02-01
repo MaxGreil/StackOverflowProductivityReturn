@@ -1,6 +1,16 @@
 <h1 align="center">StackOverflowProductivityReturn</h1>
 
-*No more distractions. Increase your productivity by only allowing specific elements on the StackOverflow sidebar. Or show none at all. You choose.*
+<div align="center">
+    <br> firefox addon stats:
+    <img src="https://badgen.net/amo/users/soproductivityreturn" >
+    <img src="https://badgen.net/amo/rating/soproductivityreturn" >
+    <img src="https://badgen.net/amo/reviews/soproductivityreturn" >
+    <img src="https://badgen.net/amo/v/soproductivityreturn" >
+</div>
+
+<br>
+
+*No more distractions. Increase your productivity by only allowing specific or none elements on the StackOverflow sidebar. Or show none at all. You choose.*
 
 ## Overview
 StackOverflowProductivityReturn is a Firefox extension that lets you hide a selection of or all sidebar elements on question pages on [Stackoverflow](https://stackoverflow.com/).
@@ -8,9 +18,9 @@ StackOverflowProductivityReturn is a Firefox extension that lets you hide a sele
 StackOverflowProductivityReturn is aimed at users who get easily distracted and want to maintain their productivity when looking up questions on Stackoverflow.
 
 ## Basic Usage
-<img src="img/Popup.png">\
+<img src="img/Popup.png">
 
-The image above shows the layout of the StackOverflowProductivityReturn Extension. Select sidebar elements you want to hide on StackOverflow question pages via click on the corresponding checkbox. Subsequently, apply your changes by clicking on `Apply changes`. When clicking on `Apply changes` the current site gets reloaded and the popup gets closed.
+<br> The image above shows the layout of the StackOverflowProductivityReturn Extension. Select sidebar elements you want to hide on StackOverflow question pages via click on the corresponding checkbox. Subsequently, apply your changes by clicking on `Apply changes`. When clicking on `Apply changes` the current site gets reloaded and the popup gets closed.
 
 <img src="img/ElementsShown.png">
 <img src="img/ElementsHidden.png">
@@ -18,7 +28,7 @@ The image above shows the layout of the StackOverflowProductivityReturn Extensio
 ## Installation Instructions
 
 ### Firefox
-You can get the latest version of StackOverflowProductivityReturn Extension from the [Mozilla Add-ons website].
+You can get the latest version of StackOverflowProductivityReturn Extension from the [Mozilla Add-ons website](https://addons.mozilla.org/de/firefox/addon/soproductivityreturn/).
 
 #### Firefox install from source
 
