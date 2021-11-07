@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "StackOverflowProductivityReturn",
-  "version": "1.0",
+  "version": "1.1",
 
   "browser_action": {
     "default_icon": "icons/baseline_pan_tool_black_18dp.png",
@@ -15,7 +15,7 @@
   "icons": {
     "18": "icons/baseline_pan_tool_black_18dp.png"
   },
-	
+
   "permissions": [
     "storage",
     "activeTab"
