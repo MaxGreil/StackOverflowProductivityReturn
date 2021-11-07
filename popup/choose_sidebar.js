@@ -26,6 +26,10 @@ const defaults = {
   checkBox7: {
     name: 'checkBox7',
     show: false
+  },
+  checkBox8: {
+    name: 'checkBox8',
+    show: false
   }
 }
 
